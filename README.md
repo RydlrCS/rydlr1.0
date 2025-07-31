@@ -50,7 +50,7 @@ python ptz_yolo_bandit_integration.py
 ![Web Carousel](./sample_carousel_view.jpg)
 ![Web Carousel](./sample_carousel_view_2.jpg)
 ![Web Carousel](./sample_carousel_view_3.jpg)
-![Web Carousel][def]
+![Web Carousel](./sample_carousel_view_4.jpg)
 
 ## Project Video
 ![Demo Video](https://www.youtube.com/watch?v=IwhhjIyKejI)
