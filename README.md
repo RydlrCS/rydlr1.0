@@ -50,7 +50,7 @@ python ptz_yolo_bandit_integration.py
 ![Web Carousel](./sample_carousel_view.jpg)
 ![Web Carousel](./sample_carousel_view_2.jpg)
 ![Web Carousel](./sample_carousel_view_3.jpg)
-![Web Carousel](./sample_carousel_view_4.jpg)
+![Web Carousel][def]
 
 ## Project Video
 ![Demo Video](https://www.youtube.com/watch?v=IwhhjIyKejI)
@@ -63,3 +63,6 @@ python ptz_yolo_bandit_integration.py
 ---
 For advanced deployment or integration with cloud infrastructure (Azure, AWS, GCP, On-Prem), 
 contact: **engineering@rydlr.com**
+
+
+[def]: ./sample_carousel_view_4.jpg
