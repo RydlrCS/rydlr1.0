@@ -53,7 +53,7 @@ python ptz_yolo_bandit_integration.py
 ![Web Carousel][def2]
 
 ## Project Video
-![Youtube Link][def]]
+[Youtube Link][def]
 
 ## License & Credits
 - YOLOv5 by Ultralytics (Apache 2.0 License)
