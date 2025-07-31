@@ -53,7 +53,7 @@ python ptz_yolo_bandit_integration.py
 ![Web Carousel](./sample_carousel_view_4.jpg)
 
 ## Project Video
-![Youtube Link][[Demo Video](https://www.youtube.com/watch?v=IwhhjIyKejI)]
+![Youtube Link](https://www.youtube.com/watch?v=GaFGobAArek)]
 
 ## License & Credits
 - YOLOv5 by Ultralytics (Apache 2.0 License)
@@ -63,6 +63,3 @@ python ptz_yolo_bandit_integration.py
 ---
 For advanced deployment or integration with cloud infrastructure (Azure, AWS, GCP, On-Prem), 
 contact: **engineering@rydlr.com**
-
-
-[def]: ./sample_carousel_view_4.jpg
