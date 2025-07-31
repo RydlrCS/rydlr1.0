@@ -47,7 +47,10 @@ python ptz_yolo_bandit_integration.py
 - Web interface displays detections in a horizontal carousel at bottom of screen.
 
 ## Example Detection Carousel
-![Web Carousel](./sample_carousel_view.jpg)
+![Web Carousel](./sample_carousel_view.jpg,./sample_carousel_view_2.jpg,./sample_carousel_view_3.jpg,./sample_carousel_view_4.jpg)
+
+## Project Video
+![Demo Video](https://www.youtube.com/watch?v=IwhhjIyKejI)
 
 ## License & Credits
 - YOLOv5 by Ultralytics (Apache 2.0 License)
